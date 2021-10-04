@@ -1,3 +1,14 @@
+# Basic Information for my site
+
+### My Live site link : https://stack-edu.netlify.app/
+
+
+## About StackEdu 
+### A Online Educational Accademy 
+### This site Create by react mordan technlogy
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
